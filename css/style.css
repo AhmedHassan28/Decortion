@@ -1,4 +1,4 @@
-* {
+/* * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -33,7 +33,7 @@ nav a {
     padding: 7px 13px;
     border-radius: 3px;
     text-transform: capitalize;
-}
+} */
 
 body,
 html {
