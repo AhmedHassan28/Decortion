@@ -63,10 +63,10 @@ html {
     background-attachment: fixed;
 }
 
-.pimg1 {
+/* .pimg1 {
     background-image: url('../img/image1.jpg');
     min-height: 100%;
-}
+} */
 
 .pimg2 {
     background-image: url('../img/image2.jpg');
