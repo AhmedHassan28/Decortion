@@ -1,3 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+  background-color: #6e4933;
+  padding: 7px 11px;
+}
+nav {
+    width:80%;
+    min-width: 600px;
+    height:100vh;
+    display: flex;
+    justify-content: space-around;
+     align-content: center;
+    margin: auto;  
+}
+.logo{
+  color: white;
+   font-size: 17px;
+  font-family: "Andale Mono", AndaleMono, monospace;
+    padding: 7px 11px;
+}
+
+nav a {
+  text-decoration: none;
+    color: white;
+    font-size: 17px;
+  font-family: sans-serif;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: capitalize;
+}
+
 body,
 html {
     height: 100%;
