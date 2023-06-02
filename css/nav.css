@@ -70,7 +70,7 @@ a .active ,a:hover {
 
     }
 }
-@media (max-width: 658px){
+/* @media (max-width: 658px){
     .checkbtn{
         display: block;
     }
@@ -98,5 +98,5 @@ a .active ,a:hover {
     }
     #check:checked ~ ul {
         left: 0;
-    }
-}
+    } 
+}*/
