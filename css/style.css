@@ -71,6 +71,7 @@ html {
 .pimg2 {
     background-image: url('../img/image2.jpg');
     min-height: 700px;
+    width: 100%;
 }
 
 .pimg3 {
