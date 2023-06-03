@@ -14,8 +14,8 @@ nav {
     background-image: url('../img/image1.jpg');
     background-size: cover;
     background-position: center;
-    /* min-height: 700px;
-    width: 100%; */
+    min-height: 700px;
+    width: 100%;
 }
 
 label .logo {
