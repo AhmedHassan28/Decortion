@@ -14,8 +14,8 @@ nav {
     background-image: url('../img/image1.jpg');
     background-size: cover;
     background-position: center;
-    min-height: 700px;
-    width: 100%;
+    /* min-height: 700px;
+    width: 100%; */
 }
 
 label .logo {
@@ -45,7 +45,7 @@ nav ul li a {
 }
 a .active ,a:hover {
     border-bottom: 2px solid rgb(0, 0, 0);
-    /* transition: 0.5s;     */
+    /* transition: 0.5s;*/
 }
 .checkbtn {
     font-size: 30px;
