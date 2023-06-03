@@ -10,9 +10,7 @@ body {
   padding: 10px 11px;
 }
  nav {
-    width:80%;
-    min-width: 600px;
-    height:100vh;
+  
     display: flex;
     justify-content: space-around;
      align-content: center;
