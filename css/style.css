@@ -1,15 +1,15 @@
-* {
+/* * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     
-}
+} */
 
 body {
   background-color: #fdfdfd;
   padding: 10px 11px;
 }
-nav {
+/* nav {
     width:80%;
     min-width: 600px;
     height:100vh;
@@ -32,7 +32,7 @@ nav a {
   font-family: sans-serif;
     padding: 7px 13px;
     /* border-radius: 3px; */
-    text-transform: capitalize;
+    text-transform: capitalize; */
 }
 
 body,
@@ -63,27 +63,27 @@ html {
     background-attachment: fixed;
 }
 
-/* .pimg1 {
+.pimg1 {
     background-image: url('../img/image1.jpg');
     min-height: 100%;
-} */
+}
 
 .pimg2 {
     background-image: url('../img/image2.jpg');
     min-height: 700px;
-    width: 100%;
+    
 }
 
 .pimg3 {
     background-image: url('../img/image3.jpg');
     min-height: 700px;
-    width: 100%;
+    
 }
 
 .pimg4 {
     background-image: url('../img/image4.jpg');
     min-height: 700px;
-    width: 100%;
+    
 }
 
 /* .section {
