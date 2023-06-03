@@ -77,11 +77,13 @@ html {
 .pimg3 {
     background-image: url('../img/image3.jpg');
     min-height: 700px;
+    width: 100%;
 }
 
 .pimg4 {
     background-image: url('../img/image4.jpg');
     min-height: 700px;
+    width: 100%;
 }
 
 /* .section {
